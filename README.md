@@ -1,6 +1,6 @@
 ## Olá! Sou o Pedro Sandes, profissional em desenvolvimento Full-Stack!
 
-<div align="center">
+<div align="center" display="flex" flex-direction="column">
   <a href="https://github.com/Mrdiskman">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mrdiskman&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrdiskman&layout=compact&langs_count=7&theme=tokyonight"/>
