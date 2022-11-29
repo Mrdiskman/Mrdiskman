@@ -1,10 +1,10 @@
 ## Olá! Sou o Pedro Sandes, profissional em desenvolvimento Full-Stack!
 
-<div align="center" display="flex" flex-direction:"column">
+<div align="center" display="flex">
   <a href="https://github.com/Mrdiskman">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mrdiskman&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrdiskman&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrdiskman&layout=compact&langs_count=7&theme=tokyonight"/>
 <div align="center"><br>
   <img alt="Pedro-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img alt="Pedro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
