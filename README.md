@@ -1,4 +1,4 @@
-## Olá! Sou o Pedro Sandes, profissional em desenvolvimento Full-Stack!
+## Olá! Sou Pedro Sandes, profissional em desenvolvimento Full-Stack!
 
 <div align="center">
   <a href="https://github.com/Mrdiskman">
