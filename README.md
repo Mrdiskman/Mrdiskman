@@ -10,7 +10,7 @@
   <img alt="Pedro-Postgres" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
   <img alt="Pedro-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
   <img alt="Pedro-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img alt="Pedro-Next.Js" height="30" width="40" src="https://miro.medium.com/v2/resize:fit:1000/1*KDMx1YspSrBcFJG-NDZgDg.png">
+  <img alt="Pedro-Next.Js" height="30" width="40" src="https://w7.pngwing.com/pngs/87/586/png-transparent-next-js-hd-logo.png">
   
 <div align="center">
   <a href="https://www.linkedin.com/in/pedro-henrique-lima-sandes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
