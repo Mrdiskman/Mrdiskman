@@ -10,12 +10,7 @@
   <img alt="Pedro-Postgres" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
   <img alt="Pedro-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
   <img alt="Pedro-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
-  <div align="center">
-  <a href="https://github.com/Mrdiskman">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mrdiskman&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrdiskman&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+  <img alt="Pedro-Next.Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   ##
   
 <div align="center">
