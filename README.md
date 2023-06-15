@@ -10,7 +10,7 @@
   <img alt="Pedro-Postgres" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
   <img alt="Pedro-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
   <img alt="Pedro-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img alt="Pedro-Next.Js" height="30" width="40" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg](https://seeklogo.com/images/N/next-js-logo-7929BCD36F-seeklogo.com.png)">
+  <img alt="Pedro-Next.Js" height="30" width="40" src="https://camo.githubusercontent.com/ce4f1c6975e96a597d4d535edfa0c66846f7fb5f77e13a5b2d528109fd6fc98d/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313533383336313039312f7265706f7369746f726965732f6e6578742d6a732f6e6578742d6a732e706e67">
   
 <div align="center">
   <a href="https://www.linkedin.com/in/pedro-henrique-lima-sandes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
